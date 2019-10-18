@@ -1,5 +1,5 @@
 """ My VMWare Station was not able to download pytest. I tried reinstalling Python to see if it would help, but it did not help
-I was not able to test the tests completely, but I went off of what we did in class to make my tests"""
+I was not able to test the tests completely, but I went off of what we did in class to make my tests."""
 
 import pandas as pd
 from reframe import Relation
