@@ -1,3 +1,6 @@
+""" VMWare Station would not let me install pytest and pandas, so I was not able to run the tests. I found how to incorporate the 
+country.csv and to find the ones that are the same in the tests"""
+
 import sys
 sys.path.insert(1, '../')
 import pytest
